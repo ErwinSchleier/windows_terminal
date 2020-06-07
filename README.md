@@ -36,15 +36,8 @@ Copy "guid" code and paste it into "defaultProfile".
 
     "defaultProfile": "{abc00000-0000-0000-0000-000000000000}",
 
-    // You can add more global application settings here.
-    // To learn more about global settings, visit https://aka.ms/terminal-global-settings
-
-    // If enabled, selections are automatically copied to your clipboard.
-    "copyOnSelect": false,
-
-    // If enabled, formatted data is also copied to your clipboard
-    "copyFormatting": false,
-		...
+    ...
+    
 }
 ```
 
